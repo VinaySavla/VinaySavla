@@ -22,7 +22,7 @@ Tech enthusiast and dynamic computer engineering student with a proven flair for
 ![](https://github-contributor-stats.vercel.app/api?username=VinaySavla&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="http://techmemegenerator.42web.io/meme.jpg" width="512px" height = "400px !important"/>
+<img src="http://techmemegenerator.42web.io/meme.jpg?replace=true" width="512px" height = "400px !important"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VinaySavla&icon=0&color=0)](https://visitcount.itsvg.in)
