@@ -1,5 +1,4 @@
 # 💫 About Me:
-### About Me
 
 👋 Hi there! I'm a passionate tech enthusiast and a dynamic computer engineering student with a knack for innovation and problem-solving.
 
