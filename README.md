@@ -1,5 +1,19 @@
 # 💫 About Me:
-Tech enthusiast and dynamic computer engineering student with a proven flair for innovation and problem-solving. My journey is filled with accolades, from winning Smart India Hackathons to shining at the Error404 hackathon.<br>As a skilled freelancer, I've mastered web development, application development, and software domains, delivering exceptional solutions to clients. Notably, I built a powerful software using Python, efficiently managing email notices with precision.<br>Internships have been a gateway to real-world experience, where I contributed to projects like a cutting-edge distress alert mobile app and a feature-rich Flutter-based Ecommerce platform.<br>Hackathons bring out the best in me, resulting in impactful solutions like the pothole reporting app for the Goa government and a first-prize-winning bulk mailing web application.<br>In college, I spearheaded projects, including a comprehensive blood test management system, an ingenious college management app, and a captivating sorting visualization project.<br>With Flutter, ReactJS, NodeJS, PHP, and Python, my tech stack is incredibly versatile. I enjoy working in teams, and I'm excited to take on new challenges and seize possibilities that will reshape technology's future and have a beneficial impact on society.
+### About Me
+
+👋 Hi there! I'm a passionate tech enthusiast and a dynamic computer engineering student with a knack for innovation and problem-solving.
+
+🏆 **Hackathon Successes:** My journey in hackathons began with participating in the Smart India Hackathon, where I tackled the government of Goa's pothole challenge problem statement. I then secured victory in the V-Technovation Hackathon, showcasing my ability to deliver impactful solutions. I continued to participate in the Smart India Hackathon, this time addressing the smart waste management problem statement. Later, I excelled at the Error404 Hackathon, showcasing exceptional problem-solving skills. I also earned finalist recognition at the Rajasthan Police Hackathon and secured victory as a winner in Recursion 5.0.
+
+💻 **Skillset:** In my versatile tech stack, I'm proficient in Flutter, ReactJS, NodeJS, PHP, Python, and Ionic, empowering me to develop a wide range of applications and software solutions.
+
+📜 **Certifications:** I hold certifications in Database Fundamentals: Getting Started with SQL, Oracle Cloud Infrastructure 2023 Certified Foundations Associate, Introduction to Flutter Development by AppBravery, Python 3.4.3 Training Spoken Tutorial by IIT Bombay, and Flutter Zero to Hero. These certifications not only validate my skills but also showcase my commitment to continuous learning and staying updated with the latest technologies.
+
+🚀 **Projects:** Some of my notable projects include developing a powerful software using Python for precise email management and contributing to projects like a cutting-edge distress alert mobile app and a feature-rich Flutter-based E-commerce platform during my internships.
+
+🎓 **College Projects:** In college, I've led various projects ranging from a comprehensive blood test management system to an innovative college management app and a captivating sorting visualization project.
+
+🌟 **Passion:** I'm excited about the endless possibilities in technology and am committed to leveraging my skills to create solutions that positively impact society.
 
 
 ## 🌐 Socials:
