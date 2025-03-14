@@ -1,8 +1,9 @@
-#🌐 Portfolio:  [vinaysavla.tech](https://vinaysavla.tech)
 
 # 💫 About Me:
 
 👋 Hi there! I'm a passionate tech enthusiast and a dynamic computer engineering student with a knack for innovation and problem-solving.
+
+🌐 Portfolio:  [vinaysavla.tech](https://vinaysavla.tech)
 
 🏆 **Hackathon Successes:** My journey in hackathons began with participating in the Smart India Hackathon, where I tackled the government of Goa's pothole challenge problem statement. I then secured victory in the V-Technovation Hackathon, showcasing my ability to deliver impactful solutions. I continued to participate in the Smart India Hackathon, this time addressing the smart waste management problem statement. Later, I excelled at the Error404 Hackathon, showcasing exceptional problem-solving skills. I also earned finalist recognition at the Rajasthan Police Hackathon and secured victory as a winner in Recursion 5.0.
 
